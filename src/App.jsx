@@ -1,7 +1,9 @@
+import DestinationContainer from "./components/DestinationContainar"
+
 function App() {
   return (
     <div>
-      {/* Your code here */}
+     <DestinationContainer/>
     </div>
   )
 }
